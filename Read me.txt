@@ -1,0 +1,6 @@
+1. create a database name "profitness"
+2. table name "register"
+3. Name, type-varchar, length-20
+   Phone, type-Bigint, lengt-15 (primarykey)
+   Email, type-varchar, length-20 (primarykey)
+   Password, type-varchar, length-8
